@@ -1,3 +1,6 @@
+from operator import truediv
+
+
 def f(): # 定义函数
     print ('hello riko')
 
@@ -12,3 +15,4 @@ g(x) # 调用
 
 y=int(x)
 print(y)
+
