@@ -10,6 +10,7 @@ def f(x):
 x=float(input('input a number: '))
 while x>0:
     f(x)
+    print (str(f(x)))
     x=float(input('input a number: '))
 
 
