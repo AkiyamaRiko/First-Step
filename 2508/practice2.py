@@ -8,3 +8,4 @@ for i in [3,41,12,9,74,15]:
     if i>max: #找出最大的数
         max=i
 print(max)
+
